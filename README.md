@@ -1,4 +1,9 @@
-mou-theme
+Mou Theme
 =========
 
-Clean, colourful theme for Mou - http://mouapp.com/
+A clean, colourful theme for the Mac Markdown editor [Mou](http://mouapp.com/).
+
+To install, copy `Sam Rayner+.txt` to
+```
+~/Library/Application Support/Mou/Themes
+```
